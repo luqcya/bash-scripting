@@ -1,2 +1,5 @@
-# add execute on the shell script
-# run it as sudo
+# simple resize ubuntu vg on sda3
+
+prerequisite to run the script
+1. run only on ubuntu
+2. add execute on the script (chmod +x ubuntu-resizedisk.sh)
