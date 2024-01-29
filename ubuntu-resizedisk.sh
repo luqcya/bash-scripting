@@ -1,5 +1,10 @@
 #!/bin/bash
 
+#### PREREQUISITE ####
+# 1. run only on ubuntu
+# 2. add execute on the script (chmod +x ubuntu-resizedisk.sh)
+# 3. run the script "sudo bash ubuntu-resizedisk.sh"
+
 echo "--------EXTEND DISK--------"
 read -r -p "Please run as with sudo, do you want to proceed? [yes|NO]" proceed
 
